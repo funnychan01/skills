@@ -10,6 +10,8 @@ You don't remember every skill, so ask.
 
 A **flow** is a path through the skills. Most paths run along one **main flow**, and two **on-ramps** merge onto it. Everything else is standalone, or a vocabulary layer that runs underneath.
 
+If you know your **situation** rather than your skill (a hard bug, an inherited codebase, a decision blocked on someone else), read [SCENARIOS.md](SCENARIOS.md): it indexes these same flows by situation, card per situation.
+
 ## The main flow: idea → ship
 
 The route most work travels. You have an idea and want it built.
