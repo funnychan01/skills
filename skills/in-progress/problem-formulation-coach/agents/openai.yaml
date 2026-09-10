@@ -1,0 +1,5 @@
+interface:
+  display_name: "Problem Formulation Coach"
+  short_description: "Interview a fuzzy request into a verified problem definition"
+policy:
+  allow_implicit_invocation: false
