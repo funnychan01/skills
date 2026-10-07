@@ -1,0 +1,5 @@
+interface:
+  display_name: "Wait What CN"
+  short_description: "換個說法重講一次——簡單點，並補上我漏掉的背景資訊"
+policy:
+  allow_implicit_invocation: false

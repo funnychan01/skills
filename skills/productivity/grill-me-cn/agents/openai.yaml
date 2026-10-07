@@ -1,0 +1,5 @@
+interface:
+  display_name: "Grill Me CN"
+  short_description: "用訪談的方式，幫我把計畫修得更精準"
+policy:
+  allow_implicit_invocation: false
